@@ -1,6 +1,6 @@
-# NexusCloud
-A CloudSystem for your Minecraft Network! (GET OUT OF HERE IM PLAYING MINECRAFTTT!)
-NeXusCloud is an Open Source Cloud System for Minecraft Servers.
+# PrivateServers V2
+A PrivateServer CloudSystem for your Minecraft Network!
+PrivateServers is an Open Source Cloud System for Minecraft Servers.
 
 ## Feature Request
     - Open Issue (German, English): https://github.com/TheSnax/NexusCloud/issues
